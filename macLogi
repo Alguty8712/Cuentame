@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCase>
+<selenese>
+	<command>open</command>
+	<target><![CDATA[https://rubonline.icbf.gov.co/DefaultF.aspx]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=UserName]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[id=UserName]]></target>
+	<value><![CDATA[DEYVIA.HERNANDEZM]]></value>
+</selenese>
+<selenese>
+	<command>type</command>
+	<target><![CDATA[id=Password]]></target>
+	<value><![CDATA[Fuse2022*D]]></value>
+</selenese>
+<selenese>
+	<command>click</command>
+	<target><![CDATA[id=LoginButton]]></target>
+	<value><![CDATA[]]></value>
+</selenese>
+</TestCase>
